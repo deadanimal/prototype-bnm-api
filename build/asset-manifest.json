@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0260b80d.chunk.css",
+    "main.js": "/static/js/main.707c7492.chunk.js",
+    "main.js.map": "/static/js/main.707c7492.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f6e29179.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f6e29179.js.map",
+    "xlsx.js": "/static/js/xlsx.6ec66fd8.chunk.js",
+    "xlsx.js.map": "/static/js/xlsx.6ec66fd8.chunk.js.map",
+    "static/css/3.fe0ee806.chunk.css": "/static/css/3.fe0ee806.chunk.css",
+    "static/js/3.ca9a93a8.chunk.js": "/static/js/3.ca9a93a8.chunk.js",
+    "static/js/3.ca9a93a8.chunk.js.map": "/static/js/3.ca9a93a8.chunk.js.map",
+    "static/js/4.23c1ca8e.chunk.js": "/static/js/4.23c1ca8e.chunk.js",
+    "static/js/4.23c1ca8e.chunk.js.map": "/static/js/4.23c1ca8e.chunk.js.map",
+    "static/js/5.36bc8391.chunk.js": "/static/js/5.36bc8391.chunk.js",
+    "static/js/5.36bc8391.chunk.js.map": "/static/js/5.36bc8391.chunk.js.map",
+    "static/js/6.b426405d.chunk.js": "/static/js/6.b426405d.chunk.js",
+    "static/js/6.b426405d.chunk.js.map": "/static/js/6.b426405d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.81b7c3b7a9f91e4ba31a20bff239bbff.js": "/precache-manifest.81b7c3b7a9f91e4ba31a20bff239bbff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.fe0ee806.chunk.css.map": "/static/css/3.fe0ee806.chunk.css.map",
+    "static/css/main.0260b80d.chunk.css.map": "/static/css/main.0260b80d.chunk.css.map",
+    "static/js/3.ca9a93a8.chunk.js.LICENSE.txt": "/static/js/3.ca9a93a8.chunk.js.LICENSE.txt",
+    "static/js/5.36bc8391.chunk.js.LICENSE.txt": "/static/js/5.36bc8391.chunk.js.LICENSE.txt",
+    "static/js/6.b426405d.chunk.js.LICENSE.txt": "/static/js/6.b426405d.chunk.js.LICENSE.txt",
+    "static/js/main.707c7492.chunk.js.LICENSE.txt": "/static/js/main.707c7492.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/static/media/argon-react.f38ddea9.png",
+    "static/media/bnm.png": "/static/media/bnm.429a680d.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.fb493903.woff2",
+    "static/media/nucleo.css": "/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile.jpg": "/static/media/profile.ceb1ad61.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6e29179.js",
+    "static/css/3.fe0ee806.chunk.css",
+    "static/js/3.ca9a93a8.chunk.js",
+    "static/css/main.0260b80d.chunk.css",
+    "static/js/main.707c7492.chunk.js"
+  ]
+}
